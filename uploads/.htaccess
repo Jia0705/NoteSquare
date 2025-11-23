@@ -1,0 +1,5 @@
+# Disable PHP execution in uploads folder
+php_flag engine off
+
+# Disable directory listing
+Options -Indexes
